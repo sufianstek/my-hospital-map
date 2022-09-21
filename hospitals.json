@@ -1,0 +1,1162 @@
+[
+    {
+      "id": 1,
+      "nama_var": "henchebesarhajjahkalsom",
+      "nama_hospital": "Hospital Enche' Besar Hajjah Kalsom, Kluang",
+      "negeri": "Johor",
+      "latitud": 2.0382272,
+      "longitud": 103.3112957
+    },
+    {
+      "id": 2,
+      "nama_var": "hkotatinggi",
+      "nama_hospital": "Hospital Kota Tinggi",
+      "negeri": "Johor",
+      "latitud": 1.7349832,
+      "longitud": 103.8994971
+    },
+    {
+      "id": 3,
+      "nama_var": "hmersing",
+      "nama_hospital": "Hospital Mersing",
+      "negeri": "Johor",
+      "latitud": 2.429453,
+      "longitud": 103.8453956
+    },
+    {
+      "id": 4,
+      "nama_var": "hpakarsultanahfatimah",
+      "nama_hospital": "Hospital Pakar Sultanah Fatimah",
+      "negeri": "Johor",
+      "latitud": 2.057115,
+      "longitud": 102.5744456
+    },
+    {
+      "id": 5,
+      "nama_var": "hpermai",
+      "nama_hospital": "Hospital Permai",
+      "negeri": "Johor",
+      "latitud": 1.5226324,
+      "longitud": 103.7046857
+    },
+    {
+      "id": 6,
+      "nama_var": "hpontian",
+      "nama_hospital": "Hospital Pontian",
+      "negeri": "Johor",
+      "latitud": 1.4984596,
+      "longitud": 103.3852071
+    },
+    {
+      "id": 7,
+      "nama_var": "hsegamat",
+      "nama_hospital": "Hospital Segamat",
+      "negeri": "Johor",
+      "latitud": 2.4932691,
+      "longitud": 102.8590632
+    },
+    {
+      "id": 8,
+      "nama_var": "hsultanismail",
+      "nama_hospital": "Hospital Sultan Ismail",
+      "negeri": "Johor",
+      "latitud": 1.5463271,
+      "longitud": 103.790894
+    },
+    {
+      "id": 9,
+      "nama_var": "hsultanahaminah",
+      "nama_hospital": "Hospital Sultanah Aminah",
+      "negeri": "Johor",
+      "latitud": 1.4585029,
+      "longitud": 103.7460296
+    },
+    {
+      "id": 10,
+      "nama_var": "hsultanahnoraismail",
+      "nama_hospital": "Hospital Sultanah Nora Ismail",
+      "negeri": "Johor",
+      "latitud": 1.837516,
+      "longitud": 102.9409968
+    },
+    {
+      "id": 11,
+      "nama_var": "htangkak",
+      "nama_hospital": "Hospital Tangkak",
+      "negeri": "Johor",
+      "latitud": 2.2720635,
+      "longitud": 102.5468192
+    },
+    {
+      "id": 12,
+      "nama_var": "htemenggongserimaharajatunibrahim",
+      "nama_hospital": "Hospital Temenggong Seri Maharaja Tun Ibrahim",
+      "negeri": "Johor",
+      "latitud": 1.6397458,
+      "longitud": 103.6238512
+    },
+    {
+      "id": 13,
+      "nama_var": "hbaling",
+      "nama_hospital": "Hospital Baling",
+      "negeri": "Kedah",
+      "latitud": 5.6777182,
+      "longitud": 100.9258165
+    },
+    {
+      "id": 14,
+      "nama_var": "hjitra",
+      "nama_hospital": "Hospital Jitra",
+      "negeri": "Kedah",
+      "latitud": 6.2787858,
+      "longitud": 100.4190655
+    },
+    {
+      "id": 15,
+      "nama_var": "hkualanerang",
+      "nama_hospital": "Hospital Kuala Nerang",
+      "negeri": "Kedah",
+      "latitud": 6.25263,
+      "longitud": 100.6097715
+    },
+    {
+      "id": 16,
+      "nama_var": "hkulim",
+      "nama_hospital": "Hospital Kulim",
+      "negeri": "Kedah",
+      "latitud": 5.3931314,
+      "longitud": 100.5730363
+    },
+    {
+      "id": 17,
+      "nama_var": "hlangkawi",
+      "nama_hospital": "Hospital Langkawi",
+      "negeri": "Kedah",
+      "latitud": 6.3239735,
+      "longitud": 99.7866636
+    },
+    {
+      "id": 18,
+      "nama_var": "hsik",
+      "nama_hospital": "Hospital Sik",
+      "negeri": "Kedah",
+      "latitud": 5.8122196,
+      "longitud": 100.7269887
+    },
+    {
+      "id": 19,
+      "nama_var": "hsultanabdulhalim",
+      "nama_hospital": "Hospital Sultan Abdul Halim",
+      "negeri": "Kedah",
+      "latitud": 5.6684315,
+      "longitud": 100.5163156
+    },
+    {
+      "id": 20,
+      "nama_var": "hsultanahbahiyah",
+      "nama_hospital": "Hospital Sultanah Bahiyah",
+      "negeri": "Kedah",
+      "latitud": 6.1488245,
+      "longitud": 100.4063735
+    },
+    {
+      "id": 21,
+      "nama_var": "hyan",
+      "nama_hospital": "Hospital Yan",
+      "negeri": "Kedah",
+      "latitud": 5.820611,
+      "longitud": 100.3845112
+    },
+    {
+      "id": 22,
+      "nama_var": "hguamusang",
+      "nama_hospital": "Hospital Gua Musang",
+      "negeri": "Kelantan",
+      "latitud": 4.8594875,
+      "longitud": 101.9546244
+    },
+    {
+      "id": 23,
+      "nama_var": "hjeli",
+      "nama_hospital": "Hospital Jeli",
+      "negeri": "Kelantan",
+      "latitud": 5.7012901,
+      "longitud": 101.8443011
+    },
+    {
+      "id": 24,
+      "nama_var": "hmachang",
+      "nama_hospital": "Hospital Machang",
+      "negeri": "Kelantan",
+      "latitud": 5.7631889,
+      "longitud": 102.2258299
+    },
+    {
+      "id": 25,
+      "nama_var": "hpasirmas",
+      "nama_hospital": "Hospital Pasir Mas",
+      "negeri": "Kelantan",
+      "latitud": 6.0139824,
+      "longitud": 102.1189818
+    },
+    {
+      "id": 26,
+      "nama_var": "hrajaperempuanzainabii",
+      "nama_hospital": "Hospital Raja Perempuan Zainab II",
+      "negeri": "Kelantan",
+      "latitud": 6.1252883,
+      "longitud": 102.245712
+    },
+    {
+      "id": 27,
+      "nama_var": "hsultanismailpetra",
+      "nama_hospital": "Hospital Sultan Ismail Petra",
+      "negeri": "Kelantan",
+      "latitud": 5.4971811,
+      "longitud": 102.2252887
+    },
+    {
+      "id": 28,
+      "nama_var": "htanahmerah",
+      "nama_hospital": "Hospital Tanah Merah",
+      "negeri": "Kelantan",
+      "latitud": 5.8099911,
+      "longitud": 102.1523233
+    },
+    {
+      "id": 29,
+      "nama_var": "htengkuanis",
+      "nama_hospital": "Hospital Tengku Anis",
+      "negeri": "Kelantan",
+      "latitud": 5.8329518,
+      "longitud": 102.3877575
+    },
+    {
+      "id": 30,
+      "nama_var": "htumpat",
+      "nama_hospital": "Hospital Tumpat",
+      "negeri": "Kelantan",
+      "latitud": 6.1897387,
+      "longitud": 102.1573041
+    },
+    {
+      "id": 31,
+      "nama_var": "halorgajah",
+      "nama_hospital": "Hospital Alor Gajah",
+      "negeri": "Melaka",
+      "latitud": 2.3954442,
+      "longitud": 102.2020059
+    },
+    {
+      "id": 32,
+      "nama_var": "hjasin",
+      "nama_hospital": "Hospital Jasin",
+      "negeri": "Melaka",
+      "latitud": 2.3048477,
+      "longitud": 102.4296052
+    },
+    {
+      "id": 33,
+      "nama_var": "hmelaka",
+      "nama_hospital": "Hospital Melaka",
+      "negeri": "Melaka",
+      "latitud": 2.2172348,
+      "longitud": 102.261335
+    },
+    {
+      "id": 34,
+      "nama_var": "hjelebu",
+      "nama_hospital": "Hospital Jelebu",
+      "negeri": "Negeri Sembilan",
+      "latitud": 2.9503172,
+      "longitud": 102.0590847
+    },
+    {
+      "id": 35,
+      "nama_var": "hjempol",
+      "nama_hospital": "Hospital Jempol",
+      "negeri": "Negeri Sembilan",
+      "latitud": 2.9032324,
+      "longitud": 102.4069305
+    },
+    {
+      "id": 36,
+      "nama_var": "hportdickson",
+      "nama_hospital": "Hospital Port Dickson",
+      "negeri": "Negeri Sembilan",
+      "latitud": 2.4777276,
+      "longitud": 101.8550101
+    },
+    {
+      "id": 37,
+      "nama_var": "htampin",
+      "nama_hospital": "Hospital Tampin",
+      "negeri": "Negeri Sembilan",
+      "latitud": 2.484776,
+      "longitud": 102.2336438
+    },
+    {
+      "id": 38,
+      "nama_var": "htuankuampuannajihah",
+      "nama_hospital": "Hospital Tuanku Ampuan Najihah",
+      "negeri": "Negeri Sembilan",
+      "latitud": 2.7332582,
+      "longitud": 102.2315849
+    },
+    {
+      "id": 39,
+      "nama_var": "htuankujaafarseremban",
+      "nama_hospital": "Hospital Tuanku Ja'afar Seremban",
+      "negeri": "Negeri Sembilan",
+      "latitud": 2.7097523,
+      "longitud": 101.9448302
+    },
+    {
+      "id": 40,
+      "nama_var": "hbentong",
+      "nama_hospital": "Hospital Bentong",
+      "negeri": "Pahang",
+      "latitud": 3.5252327,
+      "longitud": 101.9054394
+    },
+    {
+      "id": 41,
+      "nama_var": "hjengka",
+      "nama_hospital": "Hospital Jengka",
+      "negeri": "Pahang",
+      "latitud": 3.7731272,
+      "longitud": 102.5517065
+    },
+    {
+      "id": 42,
+      "nama_var": "hjerantut",
+      "nama_hospital": "Hospital Jerantut",
+      "negeri": "Pahang",
+      "latitud": 3.9293159,
+      "longitud": 102.3601703
+    },
+    {
+      "id": 43,
+      "nama_var": "hkualalipis",
+      "nama_hospital": "Hospital Kuala Lipis",
+      "negeri": "Pahang",
+      "latitud": 4.1826046,
+      "longitud": 102.0556135
+    },
+    {
+      "id": 44,
+      "nama_var": "hmuadzamshah",
+      "nama_hospital": "Hospital Muadzam Shah",
+      "negeri": "Pahang",
+      "latitud": 3.0537991,
+      "longitud": 103.0909161
+    },
+    {
+      "id": 45,
+      "nama_var": "hpekan",
+      "nama_hospital": "Hospital Pekan",
+      "negeri": "Pahang",
+      "latitud": 3.5016696,
+      "longitud": 103.3791768
+    },
+    {
+      "id": 46,
+      "nama_var": "hraub",
+      "nama_hospital": "Hospital Raub",
+      "negeri": "Pahang",
+      "latitud": 3.8099055,
+      "longitud": 101.8514277
+    },
+    {
+      "id": 47,
+      "nama_var": "hrompin",
+      "nama_hospital": "Hospital Rompin",
+      "negeri": "Pahang",
+      "latitud": 2.7960999,
+      "longitud": 103.496112
+    },
+    {
+      "id": 48,
+      "nama_var": "hsultanhjahmadshah",
+      "nama_hospital": "Hospital Sultan Hj Ahmad Shah",
+      "negeri": "Pahang",
+      "latitud": 3.453226,
+      "longitud": 102.4531753
+    },
+    {
+      "id": 49,
+      "nama_var": "hsultanahhajjahkalsom",
+      "nama_hospital": "Hospital Sultanah Hajjah Kalsom",
+      "negeri": "Pahang",
+      "latitud": 4.4667742,
+      "longitud": 101.3912089
+    },
+    {
+      "id": 50,
+      "nama_var": "htengkuampuanafzan",
+      "nama_hospital": "Hospital Tengku Ampuan Afzan",
+      "negeri": "Pahang",
+      "latitud": 3.8009173,
+      "longitud": 103.3215148
+    },
+    {
+      "id": 51,
+      "nama_var": "hbahagiaulukinta",
+      "nama_hospital": "Hospital Bahagia Ulu Kinta",
+      "negeri": "Perak",
+      "latitud": 4.675619,
+      "longitud": 101.1507472
+    },
+    {
+      "id": 52,
+      "nama_var": "hbatugajah",
+      "nama_hospital": "Hospital Batu Gajah",
+      "negeri": "Perak",
+      "latitud": 4.4794184,
+      "longitud": 101.0350183
+    },
+    {
+      "id": 53,
+      "nama_var": "hchangkatmelintang",
+      "nama_hospital": "Hospital Changkat Melintang",
+      "negeri": "Perak",
+      "latitud": 4.312958,
+      "longitud": 100.910491
+    },
+    {
+      "id": 54,
+      "nama_var": "hgerik",
+      "nama_hospital": "Hospital Gerik",
+      "negeri": "Perak",
+      "latitud": 5.4290267,
+      "longitud": 101.1279216
+    },
+    {
+      "id": 55,
+      "nama_var": "hkampar",
+      "nama_hospital": "Hospital Kampar",
+      "negeri": "Perak",
+      "latitud": 4.3118993,
+      "longitud": 101.1563613
+    },
+    {
+      "id": 56,
+      "nama_var": "hkualakangsar",
+      "nama_hospital": "Hospital Kuala Kangsar",
+      "negeri": "Perak",
+      "latitud": 4.7730658,
+      "longitud": 100.9319681
+    },
+    {
+      "id": 57,
+      "nama_var": "hparitbuntar",
+      "nama_hospital": "Hospital Parit Buntar",
+      "negeri": "Perak",
+      "latitud": 5.1303137,
+      "longitud": 100.4827538
+    },
+    {
+      "id": 58,
+      "nama_var": "hrajapermaisuribainun",
+      "nama_hospital": "Hospital Raja Permaisuri Bainun",
+      "negeri": "Perak",
+      "latitud": 4.6039191,
+      "longitud": 101.0901656
+    },
+    {
+      "id": 59,
+      "nama_var": "hselama",
+      "nama_hospital": "Hospital Selama",
+      "negeri": "Perak",
+      "latitud": 5.2131237,
+      "longitud": 100.6888752
+    },
+    {
+      "id": 60,
+      "nama_var": "hserimanjung",
+      "nama_hospital": "Hospital Seri Manjung",
+      "negeri": "Perak",
+      "latitud": 4.1855526,
+      "longitud": 100.6618251
+    },
+    {
+      "id": 61,
+      "nama_var": "hslimriver",
+      "nama_hospital": "Hospital Slim River",
+      "negeri": "Perak",
+      "latitud": 3.8374985,
+      "longitud": 101.404769
+    },
+    {
+      "id": 62,
+      "nama_var": "hsungaisiput",
+      "nama_hospital": "Hospital Sungai Siput",
+      "negeri": "Perak",
+      "latitud": 4.8279407,
+      "longitud": 101.0570536
+    },
+    {
+      "id": 63,
+      "nama_var": "htaiping",
+      "nama_hospital": "Hospital Taiping",
+      "negeri": "Perak",
+      "latitud": 4.8510726,
+      "longitud": 100.7368622
+    },
+    {
+      "id": 64,
+      "nama_var": "htapah",
+      "nama_hospital": "Hospital Tapah",
+      "negeri": "Perak",
+      "latitud": 4.2018538,
+      "longitud": 101.2596117
+    },
+    {
+      "id": 65,
+      "nama_var": "htelukintan",
+      "nama_hospital": "Hospital Teluk Intan",
+      "negeri": "Perak",
+      "latitud": 4.0046049,
+      "longitud": 101.0403233
+    },
+    {
+      "id": 66,
+      "nama_var": "htuankufauziah",
+      "nama_hospital": "Hospital Tuanku Fauziah",
+      "negeri": "Perlis",
+      "latitud": 6.4408811,
+      "longitud": 100.1913676
+    },
+    {
+      "id": 67,
+      "nama_var": "hbalikpulau",
+      "nama_hospital": "Hospital Balik Pulau",
+      "negeri": "Pulau Pinang",
+      "latitud": 5.3502289,
+      "longitud": 100.2331295
+    },
+    {
+      "id": 68,
+      "nama_var": "hbukitmertajam",
+      "nama_hospital": "Hospital Bukit Mertajam",
+      "negeri": "Pulau Pinang",
+      "latitud": 5.3598357,
+      "longitud": 100.4647193
+    },
+    {
+      "id": 69,
+      "nama_var": "hkepalabatas",
+      "nama_hospital": "Hospital Kepala Batas",
+      "negeri": "Pulau Pinang",
+      "latitud": 5.5126465,
+      "longitud": 100.4365729
+    },
+    {
+      "id": 70,
+      "nama_var": "hpulaupinang",
+      "nama_hospital": "Hospital Pulau Pinang",
+      "negeri": "Pulau Pinang",
+      "latitud": 5.4169068,
+      "longitud": 100.3113301
+    },
+    {
+      "id": 71,
+      "nama_var": "hseberangjaya",
+      "nama_hospital": "Hospital Seberang Jaya",
+      "negeri": "Pulau Pinang",
+      "latitud": 5.394086,
+      "longitud": 100.4071014
+    },
+    {
+      "id": 72,
+      "nama_var": "hsungaibakap",
+      "nama_hospital": "Hospital Sungai Bakap",
+      "negeri": "Pulau Pinang",
+      "latitud": 5.2192779,
+      "longitud": 100.4972446
+    },
+    {
+      "id": 73,
+      "nama_var": "hbeaufort",
+      "nama_hospital": "Hospital Beaufort",
+      "negeri": "Sabah",
+      "latitud": 5.3513617,
+      "longitud": 115.7410029
+    },
+    {
+      "id": 74,
+      "nama_var": "hbeluran",
+      "nama_hospital": "Hospital Beluran",
+      "negeri": "Sabah",
+      "latitud": 5.8934947,
+      "longitud": 117.5554309
+    },
+    {
+      "id": 75,
+      "nama_var": "hduchessofkent",
+      "nama_hospital": "Hospital Duchess Of Kent",
+      "negeri": "Sabah",
+      "latitud": 5.8589537,
+      "longitud": 118.1029559
+    },
+    {
+      "id": 76,
+      "nama_var": "hkeningau",
+      "nama_hospital": "Hospital Keningau",
+      "negeri": "Sabah",
+      "latitud": 5.3701277,
+      "longitud": 116.1819528
+    },
+    {
+      "id": 77,
+      "nama_var": "hkinabatangan",
+      "nama_hospital": "Hospital Kinabatangan",
+      "negeri": "Sabah",
+      "latitud": 5.584963,
+      "longitud": 117.8504179
+    },
+    {
+      "id": 78,
+      "nama_var": "hkotabelud",
+      "nama_hospital": "Hospital Kota Belud",
+      "negeri": "Sabah",
+      "latitud": 6.3449445,
+      "longitud": 116.4269793
+    },
+    {
+      "id": 79,
+      "nama_var": "hkotamarudu",
+      "nama_hospital": "Hospital Kota Marudu",
+      "negeri": "Sabah",
+      "latitud": 6.4571472,
+      "longitud": 116.7748843
+    },
+    {
+      "id": 80,
+      "nama_var": "hkualapenyu",
+      "nama_hospital": "Hospital Kuala Penyu",
+      "negeri": "Sabah",
+      "latitud": 5.5602788,
+      "longitud": 115.5855573
+    },
+    {
+      "id": 81,
+      "nama_var": "hkudat",
+      "nama_hospital": "Hospital Kudat",
+      "negeri": "Sabah",
+      "latitud": 6.9066627,
+      "longitud": 116.8379427
+    },
+    {
+      "id": 82,
+      "nama_var": "hkunak",
+      "nama_hospital": "Hospital Kunak",
+      "negeri": "Sabah",
+      "latitud": 4.6771175,
+      "longitud": 118.2322991
+    },
+    {
+      "id": 83,
+      "nama_var": "hlahaddatu",
+      "nama_hospital": "Hospital Lahad Datu",
+      "negeri": "Sabah",
+      "latitud": 5.0266887,
+      "longitud": 118.3136736
+    },
+    {
+      "id": 84,
+      "nama_var": "hmesrabukitpadang",
+      "nama_hospital": "Hospital Mesra Bukit Padang",
+      "negeri": "Sabah",
+      "latitud": 5.9501784,
+      "longitud": 116.1051903
+    },
+    {
+      "id": 85,
+      "nama_var": "hpapar",
+      "nama_hospital": "Hospital Papar",
+      "negeri": "Sabah",
+      "latitud": 5.7268546,
+      "longitud": 115.9237714
+    },
+    {
+      "id": 86,
+      "nama_var": "hpitas",
+      "nama_hospital": "Hospital Pitas",
+      "negeri": "Sabah",
+      "latitud": 6.7119297,
+      "longitud": 117.0296452
+    },
+    {
+      "id": 87,
+      "nama_var": "hqueenelizabeth",
+      "nama_hospital": "Hospital Queen Elizabeth",
+      "negeri": "Sabah",
+      "latitud": 5.9568339,
+      "longitud": 116.0726099
+    },
+    {
+      "id": 88,
+      "nama_var": "hqueenelizabethii",
+      "nama_hospital": "Hospital Queen Elizabeth II",
+      "negeri": "Sabah",
+      "latitud": 5.9664872,
+      "longitud": 116.0937928
+    },
+    {
+      "id": 89,
+      "nama_var": "hranau",
+      "nama_hospital": "Hospital Ranau",
+      "negeri": "Sabah",
+      "latitud": 5.9533942,
+      "longitud": 116.670941
+    },
+    {
+      "id": 90,
+      "nama_var": "hsemporna",
+      "nama_hospital": "Hospital Semporna",
+      "negeri": "Sabah",
+      "latitud": 4.4821378,
+      "longitud": 118.6050743
+    },
+    {
+      "id": 91,
+      "nama_var": "hsipitang",
+      "nama_hospital": "Hospital Sipitang",
+      "negeri": "Sabah",
+      "latitud": 5.0964878,
+      "longitud": 115.562959
+    },
+    {
+      "id": 92,
+      "nama_var": "htambunan",
+      "nama_hospital": "Hospital Tambunan",
+      "negeri": "Sabah",
+      "latitud": 5.6825392,
+      "longitud": 116.3710304
+    },
+    {
+      "id": 93,
+      "nama_var": "htawau",
+      "nama_hospital": "Hospital Tawau",
+      "negeri": "Sabah",
+      "latitud": 4.2498168,
+      "longitud": 117.8807429
+    },
+    {
+      "id": 94,
+      "nama_var": "htenom",
+      "nama_hospital": "Hospital Tenom",
+      "negeri": "Sabah",
+      "latitud": 5.1231747,
+      "longitud": 115.941286
+    },
+    {
+      "id": 95,
+      "nama_var": "htuaran",
+      "nama_hospital": "Hospital Tuaran",
+      "negeri": "Sabah",
+      "latitud": 6.143924,
+      "longitud": 116.219027
+    },
+    {
+      "id": 96,
+      "nama_var": "hwanitadankanak-kanaksabah",
+      "nama_hospital": "Hospital Wanita dan Kanak-Kanak Sabah",
+      "negeri": "Sabah",
+      "latitud": 6.0138039,
+      "longitud": 116.1194999
+    },
+    {
+      "id": 97,
+      "nama_var": "hbau",
+      "nama_hospital": "Hospital Bau",
+      "negeri": "Sarawak",
+      "latitud": 1.4295005,
+      "longitud": 110.1426433
+    },
+    {
+      "id": 98,
+      "nama_var": "hbetong",
+      "nama_hospital": "Hospital Betong",
+      "negeri": "Sarawak",
+      "latitud": 1.3739821,
+      "longitud": 111.5737668
+    },
+    {
+      "id": 99,
+      "nama_var": "hbintulu",
+      "nama_hospital": "Hospital Bintulu",
+      "negeri": "Sarawak",
+      "latitud": 3.2296957,
+      "longitud": 113.1010301
+    },
+    {
+      "id": 100,
+      "nama_var": "hdalat",
+      "nama_hospital": "Hospital Dalat",
+      "negeri": "Sarawak",
+      "latitud": 2.7452169,
+      "longitud": 111.9460414
+    },
+    {
+      "id": 101,
+      "nama_var": "hdaro",
+      "nama_hospital": "Hospital Daro",
+      "negeri": "Sarawak",
+      "latitud": 2.5218077,
+      "longitud": 111.4131669
+    },
+    {
+      "id": 102,
+      "nama_var": "hkanowit",
+      "nama_hospital": "Hospital Kanowit",
+      "negeri": "Sarawak",
+      "latitud": 2.1027581,
+      "longitud": 112.1523139
+    },
+    {
+      "id": 103,
+      "nama_var": "hkapit",
+      "nama_hospital": "Hospital Kapit",
+      "negeri": "Sarawak",
+      "latitud": 2.0138652,
+      "longitud": 112.9426557
+    },
+    {
+      "id": 104,
+      "nama_var": "hlawas",
+      "nama_hospital": "Hospital Lawas",
+      "negeri": "Sarawak",
+      "latitud": 4.8543947,
+      "longitud": 115.4045908
+    },
+    {
+      "id": 105,
+      "nama_var": "hlimbang",
+      "nama_hospital": "Hospital Limbang",
+      "negeri": "Sarawak",
+      "latitud": 4.7642525,
+      "longitud": 115.0190368
+    },
+    {
+      "id": 106,
+      "nama_var": "hlundu",
+      "nama_hospital": "Hospital Lundu",
+      "negeri": "Sarawak",
+      "latitud": 1.6755934,
+      "longitud": 109.8528202
+    },
+    {
+      "id": 107,
+      "nama_var": "hmarudi",
+      "nama_hospital": "Hospital Marudi",
+      "negeri": "Sarawak",
+      "latitud": 4.1784081,
+      "longitud": 114.3253545
+    },
+    {
+      "id": 108,
+      "nama_var": "hmiri",
+      "nama_hospital": "Hospital Miri",
+      "negeri": "Sarawak",
+      "latitud": 4.3743537,
+      "longitud": 113.9998124
+    },
+    {
+      "id": 109,
+      "nama_var": "hmukah",
+      "nama_hospital": "Hospital Mukah",
+      "negeri": "Sarawak",
+      "latitud": 2.9023532,
+      "longitud": 112.0775122
+    },
+    {
+      "id": 110,
+      "nama_var": "hrajahcharlesbrookememorial",
+      "nama_hospital": "Hospital Rajah Charles Brooke Memorial",
+      "negeri": "Sarawak",
+      "latitud": 1.3890004,
+      "longitud": 110.3224578
+    },
+    {
+      "id": 111,
+      "nama_var": "hsaratok",
+      "nama_hospital": "Hospital Saratok",
+      "negeri": "Sarawak",
+      "latitud": 1.7471428,
+      "longitud": 111.3397193
+    },
+    {
+      "id": 112,
+      "nama_var": "hsarikei",
+      "nama_hospital": "Hospital Sarikei",
+      "negeri": "Sarawak",
+      "latitud": 2.1319958,
+      "longitud": 111.4920017
+    },
+    {
+      "id": 113,
+      "nama_var": "hsentosa",
+      "nama_hospital": "Hospital Sentosa",
+      "negeri": "Sarawak",
+      "latitud": 1.463727,
+      "longitud": 110.3292648
+    },
+    {
+      "id": 114,
+      "nama_var": "hserian",
+      "nama_hospital": "Hospital Serian",
+      "negeri": "Sarawak",
+      "latitud": 1.1762658,
+      "longitud": 110.5636098
+    },
+    {
+      "id": 115,
+      "nama_var": "hsibu",
+      "nama_hospital": "Hospital Sibu",
+      "negeri": "Sarawak",
+      "latitud": 2.296471,
+      "longitud": 111.891889
+    },
+    {
+      "id": 116,
+      "nama_var": "hsimunjan",
+      "nama_hospital": "Hospital Simunjan",
+      "negeri": "Sarawak",
+      "latitud": 1.3700471,
+      "longitud": 110.7862545
+    },
+    {
+      "id": 117,
+      "nama_var": "hsriaman",
+      "nama_hospital": "Hospital Sri Aman",
+      "negeri": "Sarawak",
+      "latitud": 1.2340047,
+      "longitud": 111.4622246
+    },
+    {
+      "id": 118,
+      "nama_var": "humumkuching",
+      "nama_hospital": "Hospital Umum Kuching",
+      "negeri": "Sarawak",
+      "latitud": 1.543644,
+      "longitud": 110.339635
+    },
+    {
+      "id": 119,
+      "nama_var": "pusatjantungsarawak",
+      "nama_hospital": "Pusat Jantung Sarawak",
+      "negeri": "Sarawak",
+      "latitud": 1.4809232,
+      "longitud": 110.4190451
+    },
+    {
+      "id": 120,
+      "nama_var": "hampang",
+      "nama_hospital": "Hospital Ampang",
+      "negeri": "Selangor",
+      "latitud": 3.128339,
+      "longitud": 101.7634717
+    },
+    {
+      "id": 121,
+      "nama_var": "hbanting",
+      "nama_hospital": "Hospital Banting",
+      "negeri": "Selangor",
+      "latitud": 2.8028617,
+      "longitud": 101.4938279
+    },
+    {
+      "id": 122,
+      "nama_var": "hkajang",
+      "nama_hospital": "Hospital Kajang",
+      "negeri": "Selangor",
+      "latitud": 2.992875,
+      "longitud": 101.7928458
+    },
+    {
+      "id": 123,
+      "nama_var": "hkualakububharu",
+      "nama_hospital": "Hospital Kuala Kubu Bharu",
+      "negeri": "Selangor",
+      "latitud": 3.5642346,
+      "longitud": 101.6530737
+    },
+    {
+      "id": 124,
+      "nama_var": "horangasli",
+      "nama_hospital": "Hospital Orang Asli",
+      "negeri": "Selangor",
+      "latitud": 3.2919717,
+      "longitud": 101.7309713
+    },
+    {
+      "id": 125,
+      "nama_var": "hselayang",
+      "nama_hospital": "Hospital Selayang",
+      "negeri": "Selangor",
+      "latitud": 3.2426173,
+      "longitud": 101.6464691
+    },
+    {
+      "id": 126,
+      "nama_var": "hserdang",
+      "nama_hospital": "Hospital Serdang",
+      "negeri": "Selangor",
+      "latitud": 2.9764612,
+      "longitud": 101.7200313
+    },
+    {
+      "id": 127,
+      "nama_var": "hshahalam",
+      "nama_hospital": "Hospital Shah Alam",
+      "negeri": "Selangor",
+      "latitud": 3.0714489,
+      "longitud": 101.4248716
+    },
+    {
+      "id": 128,
+      "nama_var": "hsungaibuloh",
+      "nama_hospital": "Hospital Sungai Buloh",
+      "negeri": "Selangor",
+      "latitud": 3.219573,
+      "longitud": 101.5830811
+    },
+    {
+      "id": 129,
+      "nama_var": "htanjungkarang",
+      "nama_hospital": "Hospital Tanjung Karang",
+      "negeri": "Selangor",
+      "latitud": 3.425257,
+      "longitud": 101.17892
+    },
+    {
+      "id": 130,
+      "nama_var": "htengkuampuanjemaah",
+      "nama_hospital": "Hospital Tengku Ampuan Jemaah",
+      "negeri": "Selangor",
+      "latitud": 3.7591076,
+      "longitud": 100.9893055
+    },
+    {
+      "id": 131,
+      "nama_var": "htengkuampuanrahimah",
+      "nama_hospital": "Hospital Tengku Ampuan Rahimah",
+      "negeri": "Selangor",
+      "latitud": 3.0201558,
+      "longitud": 101.4398994
+    },
+    {
+      "id": 132,
+      "nama_var": "pusatkawalankustanegara",
+      "nama_hospital": "Pusat Kawalan Kusta Negara",
+      "negeri": "Selangor",
+      "latitud": 3.2225695,
+      "longitud": 101.5840722
+    },
+    {
+      "id": 133,
+      "nama_var": "hbesut",
+      "nama_hospital": "Hospital Besut",
+      "negeri": "Terengganu",
+      "latitud": 5.7296503,
+      "longitud": 102.4925699
+    },
+    {
+      "id": 134,
+      "nama_var": "hdungun",
+      "nama_hospital": "Hospital Dungun",
+      "negeri": "Terengganu",
+      "latitud": 4.7518763,
+      "longitud": 103.4148317
+    },
+    {
+      "id": 135,
+      "nama_var": "hhuluterengganu",
+      "nama_hospital": "Hospital Hulu Terengganu",
+      "negeri": "Terengganu",
+      "latitud": 5.0732163,
+      "longitud": 103.0447747
+    },
+    {
+      "id": 136,
+      "nama_var": "hkemaman",
+      "nama_hospital": "Hospital Kemaman",
+      "negeri": "Terengganu",
+      "latitud": 4.232613,
+      "longitud": 103.4210574
+    },
+    {
+      "id": 137,
+      "nama_var": "hsetiu",
+      "nama_hospital": "Hospital Setiu",
+      "negeri": "Terengganu",
+      "latitud": 5.5141275,
+      "longitud": 102.7695167
+    },
+    {
+      "id": 138,
+      "nama_var": "hsultanahnurzahirah",
+      "nama_hospital": "Hospital Sultanah Nur Zahirah",
+      "negeri": "Terengganu",
+      "latitud": 5.323906,
+      "longitud": 103.1506737
+    },
+    {
+      "id": 139,
+      "nama_var": "hkualalumpur",
+      "nama_hospital": "Hospital Kuala Lumpur",
+      "negeri": "WP Kuala Lumpur",
+      "latitud": 3.1715361,
+      "longitud": 101.7025421
+    },
+    {
+      "id": 140,
+      "nama_var": "hrehabilitasicheras",
+      "nama_hospital": "Hospital Rehabilitasi Cheras",
+      "negeri": "WP Kuala Lumpur",
+      "latitud": 3.1055173,
+      "longitud": 101.7285537
+    },
+    {
+      "id": 141,
+      "nama_var": "htunkuazizah",
+      "nama_hospital": "Hospital Tunku Azizah (Wanita Dan Kanak-Kanak)",
+      "negeri": "WP Kuala Lumpur",
+      "latitud": 3.1696506,
+      "longitud": 101.7030187
+    },
+    {
+      "id": 142,
+      "nama_var": "institutperubatanrespiratori",
+      "nama_hospital": "Institut Perubatan Respiratori",
+      "negeri": "WP Kuala Lumpur",
+      "latitud": 3.1754909,
+      "longitud": 101.6992854
+    },
+    {
+      "id": 143,
+      "nama_var": "hlabuan",
+      "nama_hospital": "Hospital Labuan",
+      "negeri": "WP Labuan",
+      "latitud": 5.311145,
+      "longitud": 115.2300178
+    },
+    {
+      "id": 144,
+      "nama_var": "hputrajaya",
+      "nama_hospital": "Hospital Putrajaya",
+      "negeri": "WP Putrajaya",
+      "latitud": 2.9290529,
+      "longitud": 101.6741956
+    },
+    {
+      "id": 145,
+      "nama_var": "institutkansernegara",
+      "nama_hospital": "Institut Kanser Negara",
+      "negeri": "WP Putrajaya",
+      "latitud": 2.926907,
+      "longitud": 101.6739021
+    }
+   ]
